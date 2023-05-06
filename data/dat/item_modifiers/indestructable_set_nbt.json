@@ -1,0 +1,10 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{HideFlags:4}"
+  },
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{Unbreakable:1b}"
+  }
+]
