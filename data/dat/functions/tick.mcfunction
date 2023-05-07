@@ -1,2 +1,0 @@
-function dat:lightning/lightning_give_tags
-function dat:lifesteal/lifesteal_give_tags
